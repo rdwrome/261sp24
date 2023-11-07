@@ -29,8 +29,8 @@ Description|Grade
 ---|---:|
 Attendance and Participation| 30%
 Homework (9 assignments)| 30%
-Midterm - March 16| 10%
-Final Project - May 11| 30%
+Midterm - March 26| 10%
+Final Project - May 7| 30%
 **Total**|**100%**
 
 ## Submissions and documentation
