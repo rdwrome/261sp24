@@ -43,7 +43,7 @@ Final Project - May 7| 30%
   - documentation of the code/program (always in Markdown as a .md file)
 
 ### Steps to submit via GitHub+Canvas
-  1. Make a folder in your GitHub private repository named after the assignment (i.e. {yourusername}/itp/ford, {yourusername}/itp/scratch, etc.)
+  1. Make a folder in your GitHub private repository named after the assignment (i.e. {yourusername}/itp/scratch, etc.)
   2. Commit all parts of your assignment (code+documentation) into the assignment repository folder
   3. Submit the link for the assignment repository folder in Canvas
 
@@ -81,7 +81,6 @@ Final Project - May 7| 30%
 	- Always speak up and admit when you do not understand something.
 - When you email me, please let me know what class/section you're in.
 - The best way to communicate with me outside of class is *always* to make an appointment with me in my office hour.
-- If you'd like constructive criticism on recordings, I'm happy to give that in my office hour in real-time. I won't give feedback on tracks via email.
 - I don't answer emails that can be answered with a one-step Google search (i.e. “How do I change the timezone on my Google Calendar?”).
 - I don't answer emails when the answer can be found in the syllabus (here).
 - I don't answer emails evenings or weekends.
@@ -94,7 +93,7 @@ Final Project - May 7| 30%
 - If you have a question about a grade, you must come ask it *in person* at my office hour.
 
 ### Attendance
-- The lowest attendance grades will be dropped.
+- The lowest attendance grade will be dropped.
 - Remote attendance is not permitted.
 - You must attend class with the computer you're using for class projects (no phones, no tablets, no borrowed laptops). If you do not, you'll receive a partial attendance grade for the week.
 - If you are more than 5 minutes late for class or leave more than 5 minutes early, you'll receive a partial attendance grade for the week.
