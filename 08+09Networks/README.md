@@ -1,4 +1,4 @@
-# Network
+# Networks
 
 ## [An outstanding Final Project](https://dylanever.itch.io/ibi)
 
@@ -13,6 +13,8 @@
 ## Housekeeping
   - Final Project Proposal - due week after next (see FPP.md in this folder)
   - Band Site Project - due next week (see Band.md in this folder)
+
+## Creative Coding Minor (ready to register?)
 
 ## Anatomy of a Website
 ![](img/anatomyofsite.png)
@@ -107,3 +109,5 @@
 - **[Building a Website with pages.github.com](https://pages.github.com/)**
 	- User site
 	- GitHub Desktop!
+
+## For Next Week: Get started on the Final Project Proposal!

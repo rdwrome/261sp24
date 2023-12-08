@@ -16,7 +16,7 @@ Marijn Haverbeke, 2018
 
 ### Everyday Tools
 
-* [Visual Studio Code](https://code.visualstudio.com/)
+* [Pulsar](https://pulsar-edit.dev/)
 
 * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
@@ -55,7 +55,8 @@ Final Project - May 7| 30%
     - how you overcame them
     - *what code you used from others/elsewhere*
       - where to find that code (specific links!!!)
-    - If your problem set does not run correctly document all your debugging. I will take points off for code that does not run correctly, but will still give partial credit if it is well-documented.
+      - Other folks' GitHub public repositories and [Stack OverFlow](https://stackoverflow.com/) are the best places to go for help most of the time
+    - Correctly document all your debugging, especially if you code ultimately does not run as intended. I will take points off for code that does not run correctly, but will still give partial credit if it is well-documented.
     - For the purposes of this class, your documentation also helps you prepare to talk about your code in class with your colleagues.
 
 ### Tutor Info
@@ -89,7 +90,7 @@ Final Project - May 7| 30%
 ### Grading
 - Assignment extensions are granted more than 12 hours in advance.
 - You will be held to the Berklee Policy on Honesty in Academic Work (see Student Handbook).
-- Late assignments are not acccepted.
+- Late assignments are not accepted.
 - If you have a question about a grade, you must come ask it *in person* at my office hour.
 
 ### Attendance

@@ -3,7 +3,7 @@
 **Y'all Pull**
 
 **A Caveat About the Reading**
-- Readings are theory and a little ahead of practice for next three weeks
+- Readings are theory and a little ahead of practice for next few weeks
 
 **Python**
 - High-level
@@ -158,4 +158,4 @@ print("col1\tcol2\tcol3\ncol1\tcol2\tcol3\ncol1\tcol2\tcol3")
 
 ## [Processing](https://processing.org/download) (install & setup for Python)
 
-## Homework is Mice.md in this folder!
+## For Next Week: Mice.md in this week's 261 repo subfolder! 

@@ -2,8 +2,6 @@
 
 ## Final Project Proposals?
 
-## Creative Coding Minor
-
 ## JavaScript
 
 **Why?**

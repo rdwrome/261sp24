@@ -33,7 +33,7 @@
 
 	- `say -v ?` for fun
 
-## CLI Excersize
+## CLI Exersize
 	Find a [Haiku](https://www.poetryfoundation.org/learn/glossary-terms/haiku-or-hokku) or other very short poem, or a song lyric refrain. Record an .aiff audio file of your computer "saying" the poem with the CLI
 		- Hints:
 			- You'll need to use pwd, ls, and cd to make sure you create the .aiff file in a place you can easily find
@@ -90,17 +90,15 @@
 	- pip --version
 	- pip3 --version
 
-**Install the Python Extension in VSC RACHEL START HERE SEPT.28**
-- View>Extensions>Python>Install
+**Install the Python Extension in Pulsar**
+- Packages>Open Package Manager>language-python?
 
 **Running Python**
-
   - CLI
-    - python3 hands.py
   - IDE
-	- Run&Debug vs. Run and Debug in VSC
 
 ## Debugging in general
+
 - Frustrating
 - Most of what programming is
 - ALWAYS BE DOCUMENTING YOUR DEBUGGING!!! (ABDYD!!!)
@@ -141,4 +139,6 @@
 - Go back to Pseudocoding
 - Break everything down into the smallest unit you can
 
-HOMEWORK: PYTHON READING
+## Revisit Documentation Outline!
+
+## For Next Week: Python Reading assignment in Canvas

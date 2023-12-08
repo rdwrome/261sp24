@@ -161,3 +161,5 @@ print(f"Factorial of {n} is {factorial(n)}")
 ## The midterm is coming
 
 ## Pyramids and FizzBuzz!
+
+## For Next Week: Power.md
