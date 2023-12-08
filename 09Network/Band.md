@@ -1,10 +1,9 @@
 ## Band
 - [Sample Website](https://kariestes.github.io/)
 - GROUPS:
-  - Jason, Belle, Skylar
-  - Kevin, Antonio, Daniel
-  - Vicente, Quinn, Alan, Gavin
-  - Reana, Shao-Wen, Dean
+  - Barbara, Yinou, Ryan A, Jaden
+  - Jose, Ada, Fumiya, Cooper
+  - Ryan W, Esther, Max, Sunshiyu
 <pre>
 You + your group mates are a new band.
 Build a simple band website together using pages.github.com where your index.html file has
@@ -13,8 +12,8 @@ at least:
 - 3 paragraph sections (bios for each of you in the band)
 - 3 other assets: could be a hyperlink, a Gif/image, a css file, etc.
 
-You will PRESENT at 4pm Next Class,
-Documentation is due at Midnight that night
+You will PRESENT at 4pm.
+Documentation is due at Midnight tonight.
 
 Every group member submits an individual markdown file to Canvas. The markdown file
 must include:

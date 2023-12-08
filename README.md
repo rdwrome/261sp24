@@ -4,7 +4,7 @@ Welcome, Programmers!
 
 ## Description
 In this course, students learn the fundamentals of computer programing that serve as a foundation for developing software applications and further exploration of programming languages. Instead of focusing on a single language or platform, this course prepares students to understand computer code in general and to understand the role computers can play in solving real-world and creative problems. By recognizing the concepts that are universal in computer programming, students are better prepared to understand any codes they come across, providing them with advanced problem-solving skills that are important when adapting to different languages based on specific situations. The logical thinking and technical skills students learn in this course can be used to develop a wide range of practical applications on the web, and in game, software, and product development. Because Berklee is an Apple institution, software applications are used with MacOS.
-This is an introductory survey course of Python, JavaScript, HTML, and SQL.
+This is an introductory survey course of Python, HTML, JavaScript, and SQL.
 
 ## Class Resources
 

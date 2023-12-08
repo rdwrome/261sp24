@@ -2,6 +2,8 @@
 
 ## Final Project Proposals?
 
+## Creative Coding Minor Refresher
+
 ## JavaScript
 
 **Why?**
@@ -129,6 +131,7 @@
 - no escape characters
 - [unit testing: a program that verifies part of your code](https://www.smashingmagazine.com/2012/06/introduction-to-javascript-unit-testing/)
 
+## Processing with JavaScript
 
 ## GitHub Branches
 

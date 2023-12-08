@@ -1,29 +1,33 @@
 # BRANCH BUDDIES
 
-## 
+## Anderson
 
-## Chew hello hello hello hello
+## Caban
 
-## Cirino's the name and tetris is the game
+## Claycomb
 
-## Fiore is a beast, on god, no cap. 
+## Dong
 
-## Hale is sus, they vented
+## Ganesh
 
-## Hu is here, now don't you dare
+## Jones
 
-## Kiyak is tired, wants to go home.
+## Kawase
 
-## McDonnell
+## Leong
 
-## McMath of the Celtic Matheson Clan
+## Meron
 
-## Merk (I'm a seepy boy today)
+## Navin
 
-## Velazquez
+## Octavio
 
-## Villanueva
+## Parasnis
 
-## Wang said it is a sunny day.
+## B. Wang
 
-## Wong
+## S. Wang
+
+## Whitney
+
+## Zhang
