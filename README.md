@@ -23,8 +23,6 @@ Marijn Haverbeke, 2018
 * [Git + GitHub.com + GitHubDesktop](https://github.blog/2019-10-02-get-started-easier-with-github-desktop-2-2/)
 
 ## Assignments and Grading
-**Your final grade will be determined by considering the following components at the indicated weights:**  
-
 Description|Grade
 ---|---:|
 Attendance and Participation| 30%
@@ -32,15 +30,6 @@ Homework (9 assignments)| 30%
 Midterm - March 26| 10%
 Final Project - May 7| 30%
 **Total**|**100%**
-
-## Submissions and documentation
-
-### Guidelines for submissions
-- Every assignment must be submitted GitHub+Canvas
-- Late submissions will not be accepted, but I will drop the lowest homework grade.
-- Most assignments you submit must have two parts:
-  - the code/program itself (eg. a .py file)
-  - documentation of the code/program (always in Markdown as a .md file)
 
 ### Steps to submit via GitHub+Canvas
   1. Make a folder in your GitHub private repository named after the assignment (i.e. {yourusername}/itp/scratch, etc.)
@@ -88,6 +77,7 @@ Final Project - May 7| 30%
 - In an emergency, please call me.
 
 ### Grading
+- The lowest homework grade will be dropped.
 - Assignment extensions are granted more than 12 hours in advance.
 - You will be held to the Berklee Policy on Honesty in Academic Work (see Student Handbook).
 - Late assignments are not accepted.
