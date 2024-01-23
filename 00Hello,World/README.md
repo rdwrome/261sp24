@@ -108,7 +108,6 @@ There are many great online guides to Git, from a very simple one [here](http://
 	- Transistor (type of semi-conductor): switches signals
 	- Capacitor: stores electricity
 
-
 **Data Types**
 - certain kinds of data take up certain amounts of memory
 - integer is also 4 bytes or 32 bits in Python, float is 8 bytes or 64 bits
