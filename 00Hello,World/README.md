@@ -124,9 +124,3 @@ There are many great online guides to Git, from a very simple one [here](http://
 **Memory Address**
 - the address is the "index" in a list, array, or string
 ![](img/indices.png)
-
-## Ford Reading Groups for Homework
-- 2.1-2.2 A
-- 2.3-2.4 B
-- 4.4, 5.2 C
-- 5.7, 6.2 D

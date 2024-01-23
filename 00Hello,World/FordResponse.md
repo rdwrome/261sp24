@@ -18,7 +18,7 @@
 - When that has gone through go to Repository > Open in Pulsar
 - The README.md file of the repository you created for this class will open in Pulsar
 
-- Read the assigned section of [this great article](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) or the PDF in this folder (same article)
+- Read the PDF in this folder
 
 - In the text entry box for the "Ford Response" on CANVAS:
     - Tell me two (2) things in the reading that were new information to you
