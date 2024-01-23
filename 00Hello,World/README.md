@@ -61,6 +61,8 @@
   - One to share my materials with you (261) (clone mine)
   - One to share your materials with me (itp) (make yours)
 
+## CLONE MY/MAKE YOUR REPOSITORY CODE ALONG
+
 ## Version Control with Git+GitHub.com+GitHubDesktop
 
 Git is a backup and collaboration tool for individuals and groups working together on software and hardware projects. GitHub is a particular platform on which a user can make use of Git features.

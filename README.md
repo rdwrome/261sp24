@@ -27,8 +27,8 @@ Description|Grade
 ---|---:|
 Attendance and Participation| 30%
 Homework (9 assignments)| 30%
-Midterm - March 26| 10%
-Final Project - May 7| 30%
+Midterm | 10%
+Final Project | 30%
 **Total**|**100%**
 
 ### Steps to submit via GitHub+Canvas
