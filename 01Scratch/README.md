@@ -40,7 +40,7 @@
 - Interpreted: human readable > interpreter > machine readable (Python, Javascript)
   - easier to write, harder to run
 
-### Compiled languages: Source, Object, Compiler, Executable
+### Compiling Process
 - Source: what we write (human readable)
 - Compiler: translates from source to object
 - Object: binary (machine readable) (*you'll need one of these for the homework next week, hint hint*)
