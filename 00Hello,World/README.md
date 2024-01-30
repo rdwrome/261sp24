@@ -102,15 +102,20 @@ There are many great online guides to Git, from a very simple one [here](http://
 **[How Computer Memory Works Ted-Ed by Kanawat Senanan](https://www.youtube.com/watch?v=p3q5zWCw8J4)**
 
 **RAM**
+- Transistor (type of semi-conductor): switches signals
+- Capacitor: stores electricity
 - Structure
 	- Address Line: where data moves in 1 bit pulses of electricity
 	- Data Line: where data is is stored (8 bits in every Byte)
-	- Transistor (type of semi-conductor): switches signals
-	- Capacitor: stores electricity
+
 
 **Data Types**
-- certain kinds of data take up certain amounts of memory
-- integer is also 4 bytes or 32 bits in Python, float is 8 bytes or 64 bits
+- Integer: whole numbers
+- Floating Point: decimal numbers
+- Array: collection of elements
+- String: array of characters where order matters (text!)
+- certain data types take up certain amounts of memory in certain environments
+- integer is 4 bytes or 32 bits in Python, float/floating point is 8 bytes or 64 bits
 
 **Memory Layout**
 - Stack
@@ -122,5 +127,5 @@ There are many great online guides to Git, from a very simple one [here](http://
 ![](img/stack.png)
 
 **Memory Address**
-- the address is the "index" in a list, array, or string
+- the address is the "index" in the array or string
 ![](img/indices.png)
