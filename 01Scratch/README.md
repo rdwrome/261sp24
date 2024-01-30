@@ -32,12 +32,6 @@
 ## GitHub+theOL Report/Refresher
 - Let's make a folder for next week's assignment
 
-## Reading Group Reports
-- A
-- B
-- C
-- D
-
 ## Tower of Babel
 
 ### Compiled vs Interpreted Computer Languages

@@ -47,6 +47,10 @@ Final Project | 30%
       - Other folks' GitHub public repositories and [Stack OverFlow](https://stackoverflow.com/) are the best places to go for help most of the time
     - Correctly document all your debugging, especially if you code ultimately does not run as intended. I will take points off for code that does not run correctly, but will still give partial credit if it is well-documented.
     - For the purposes of this class, your documentation also helps you prepare to talk about your code in class with your colleagues.
+    - In general (unless I specify otherwise), it is permissible to use chat-GPT under the following circumstances:
+      - You put your prompt in your Documentation File.
+      - You include a screenshot of your interaction with chat-GPT in your Documentation File.
+      - You write out *in your own words* your understanding of what you learned from using chat-GPT.
 
 ### Tutor Info
 - TBD
@@ -60,7 +64,6 @@ Final Project | 30%
 	- Tuesdays 11am-1pm.
 	- Meetings will take in person at 1126 Boylston Room 208.
 	- Walk-ins welcome, but preference is given to those who make [appointments here.](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUJvY3FWa3g0b3dhfGRlZmF1bHR8OTk1YzM0YTAxMDljZGU5MGEzZjQxNzViOWQ2ZTM3NjA)
-- [Course Chair](https://college.berklee.edu/people/)
 
 ## Policies
 ### Communication
