@@ -43,7 +43,7 @@
 ### Compiling Process
 - Source: what we write (human readable)
 - Compiler: translates from source to object
-- Object: binary (machine readable) (*you'll need one of these for the homework next week, hint hint*)
+- Object: binary (machine readable) 
 - Executable: actually runs program
 
 ## [Scratch](https://scratch.mit.edu/)

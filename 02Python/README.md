@@ -2,7 +2,7 @@
 
 ## Made from Scratch!
 
-## Compiled languages: Source, Object, Compiler, Executable
+## Compiling Process
 - Source: what we write (human readable)
 - Compiler: translates from source to object
 - Object: binary (machine readable) (what did I say about this last week?)
@@ -93,7 +93,7 @@
 **Install the Python Extension in Pulsar**
 - Packages>Open Package Manager>language-python?
 
-**Running Python**
+**Running Python: hands.py**
   - CLI
   - IDE
 
@@ -138,7 +138,3 @@
 - Hardest to figure out!
 - Go back to Pseudocoding
 - Break everything down into the smallest unit you can
-
-## Revisit Documentation Outline!
-
-## For Next Week: Python Reading assignment in Canvas
