@@ -29,7 +29,7 @@
 ### Always be Documenting
 - Documentation outline in the syllabus
 
-## GitHub+theOL Report/Refresher
+## GitHub+Canvas Refresher
 - Let's make a folder for next week's assignment
 
 ## Tower of Babel
@@ -43,7 +43,7 @@
 ### Compiling Process
 - Source: what we write (human readable)
 - Compiler: translates from source to object
-- Object: binary (machine readable) 
+- Object: binary (machine readable)
 - Executable: actually runs program
 
 ## [Scratch](https://scratch.mit.edu/)
