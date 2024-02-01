@@ -22,6 +22,8 @@
 
 ## While you Code
 
+### Pseudocode to start
+
 ### Code Reuse
 - Stand on the shoulders of giants
 - Be a good collaborator
