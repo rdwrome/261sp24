@@ -1,8 +1,6 @@
 # Homework - Functions
 
-1. Read Chapter 10 "Lists" in "Think Python"
-
-2. Write a program that prints out a graph of `y = x^2` (^2 means power of 2) horizontally. The print out of the graph should look like the following:
+Write a program that prints out a graph of `y = x^2` (^2 means power of 2) horizontally. The print out of the graph should look like the following:
 
 ```
 ****************************************************************
