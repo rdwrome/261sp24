@@ -55,7 +55,8 @@
 	Find a [Haiku](https://www.poetryfoundation.org/learn/glossary-terms/haiku-or-hokku) or other very short poem, or a song lyric refrain. Record an .aiff audio file of your computer "saying" the poem with the CLI
 		- Hints:
 			- You'll need to use pwd, ls, and cd to make sure you create the .aiff file in a place you can easily find
-			- You'll need to use -o
+			- You'll need to use -o:
+				`say "hi" -o hi.aiff`
 
 ***More advanced commands***
 
