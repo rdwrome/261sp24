@@ -77,6 +77,8 @@
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [101 Bash Commands and Tips for Beginners to Experts](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je)
 
+**MAKE SURE your Macintosh HD is visible in your "Finder" Preferences**
+
 **Integrated Development Environments (IDE)**
 - Most commonly used for interpreted languages
 - Interpreter helps you debug within the IDE
