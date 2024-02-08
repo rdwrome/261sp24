@@ -2,68 +2,6 @@
 
 ## Made from Scratch!
 
-## Compiling Process
-- Source: what we write (human readable)
-- Compiler: translates from source to object
-- Object: binary (machine readable) (what did I say about this last week?)
-- Executable: actually runs program
-
-## CLI vs IDE
-
-**Command Line Interfaces (CLI)**
-- Most commonly used for compiled languages
-- "under the hood"
-
-***Most common commands***
-
-	- `say` Do as I say
-
-	- `pwd` Print Working Directory (prints the path to the directory [folder] that you are currently in). Map+Compass.
-
-	- `ls` Lists the files stored in the Working Directory
-
-	- `cd` Change Directory (changes working directory to different directory)
-		>You can type `cd` and then drag and drop the folder you'd like to work in, into the Terminal Window. This is much faster than typing out the full path.
-
-	- `clear` clears the Terminal Window
-
-	- `cd ~` change directory to your root directory (how to "go back")
-
-	- `-o` tag to create an object file
-
-	- `say -v ?` for fun
-
-## CLI Exersize
-	Find a [Haiku](https://www.poetryfoundation.org/learn/glossary-terms/haiku-or-hokku) or other very short poem, or a song lyric refrain. Record an .aiff audio file of your computer "saying" the poem with the CLI
-		- Hints:
-			- You'll need to use pwd, ls, and cd to make sure you create the .aiff file in a place you can easily find
-			- You may use a -v tag
-			- You'll need to use -o
-			- See aiff.png in this folder for even more hints
-
-***More advanced commands***
-
-	- `cp` Makes a copy of a file ("cp file.txt filecopy.txt" makes a copy of file.txt and names it filecopy.txt)
-
-	- `mkdir` Makes a new directory (`mkdir NewDirectory` makes a new folder called `NewDirectory`)
-
-	- `&&` Means "and also do this", helpful for inputing multiple commands in the same line
-
-	- `man` opens the manual for Terminal commands ("man man" will open up the manual for the manual!)
-
-	- `~` means home directory
-
-	- `nano` is a text editor within Command-line Interface (isn't VSC great!)
-
-**Additional resources for Terminal and CLI**
-- [GNU Bash reference](http://www.gnu.org/software/bash/manual/bashref.html)
-- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
-- [101 Bash Commands and Tips for Beginners to Experts](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je)
-
-**Integrated Development Environments (IDE)**
-- Most commonly used for interpreted languages
-- Interpreter helps you debug within the IDE
-
 ## Intro to Python
 - High-level = human-readable!
 - General but!
@@ -89,6 +27,58 @@
 - Check your pip!
 	- pip --version
 	- pip3 --version
+
+## CLI vs IDE
+
+**Command Line Interfaces (CLI)**
+- Most commonly used for compiled languages
+- "under the hood"
+
+***Most common commands***
+
+	- `pwd` Print Working Directory (prints the path to the directory [folder] that you are currently in). Map+Compass.
+
+	- `ls` Lists the files stored in the Working Directory
+
+	- `cd` Change Directory (changes working directory to different directory)
+		>You can type `cd` and then drag and drop the folder you'd like to work in, into the Terminal Window. This is much faster than typing out the full path.
+
+	- `clear` clears the Terminal Window
+
+	- `cd ~` change directory to your root directory (how to "go back")
+
+	- `-o` tag to create an object file
+
+	- `say` for fun
+
+## CLI Exersize
+	Find a [Haiku](https://www.poetryfoundation.org/learn/glossary-terms/haiku-or-hokku) or other very short poem, or a song lyric refrain. Record an .aiff audio file of your computer "saying" the poem with the CLI
+		- Hints:
+			- You'll need to use pwd, ls, and cd to make sure you create the .aiff file in a place you can easily find
+			- You'll need to use -o
+
+***More advanced commands***
+
+	- `cp` Makes a copy of a file ("cp file.txt filecopy.txt" makes a copy of file.txt and names it filecopy.txt)
+
+	- `mkdir` Makes a new directory (`mkdir NewDirectory` makes a new folder called `NewDirectory`)
+
+	- `&&` Means "and also do this", helpful for inputing multiple commands in the same line
+
+	- `man` opens the manual for Terminal commands ("man man" will open up the manual for the manual!)
+
+	- `~` means home directory
+
+	- `nano` is a text editor within Command-line Interface (isn't VSC great!)
+
+**Additional resources for Terminal and CLI**
+- [GNU Bash reference](http://www.gnu.org/software/bash/manual/bashref.html)
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+- [101 Bash Commands and Tips for Beginners to Experts](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je)
+
+**Integrated Development Environments (IDE)**
+- Most commonly used for interpreted languages
+- Interpreter helps you debug within the IDE
 
 **Install the Python Extension in Pulsar**
 - Packages>Open Package Manager>language-python?
