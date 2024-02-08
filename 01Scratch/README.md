@@ -6,7 +6,6 @@
 - Variables: grasp and store values
 - Loops: cycles/reiterations of execution
 - Syntax: expectations information organization
-- Threads: multi-tasking
 - Conditions: Check for "Truthiness" with Boolean Logic
 ![](img/conditions.png)
 
