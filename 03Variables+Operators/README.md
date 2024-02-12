@@ -2,7 +2,7 @@
 
 **Y'all Pull**
 
-**A Caveat About the Reading**
+**A Caveat About the Readings**
 - Readings are theory and a little ahead of practice for next few weeks
 
 **Python**
@@ -129,7 +129,7 @@ print(f"{bananas} bananas were split into {int(bananas / bags)}groups to fit int
 ```Python
 print("col1\tcol2\tcol3\ncol1\tcol2\tcol3\ncol1\tcol2\tcol3")
 ```
-## Excersize:
+## Exersize:
 - Write a program that converts 99 Fahrenheit to Celsius
 - Create two variables, **f** and **c**
 - Use the equation:
@@ -158,4 +158,4 @@ print("col1\tcol2\tcol3\ncol1\tcol2\tcol3\ncol1\tcol2\tcol3")
 
 ## [Processing](https://processing.org/download) (install & setup for Python)
 
-## For Next Week: Mice.md in this week's 261 repo subfolder! 
+## For Next Week: Mice.md in this week's 261 repo subfolder! Code + Documentation, as always.
