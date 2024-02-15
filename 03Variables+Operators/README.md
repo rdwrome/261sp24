@@ -140,10 +140,9 @@ print("col1\tcol2\tcol3\ncol1\tcol2\tcol3\ncol1\tcol2\tcol3")
 - Principles of OOP
     - Encapsulation
   		- object: independent part of the program that manages itself (own rules and ways of doing things)
-      - objects are made up of values + variables
-      - objects are what Python manipulates
+      - (objects are what Python manipulates)
       - objects are reusable
-      - a specific realization of an object is a
+      - a specific realization of an object is an instance
   	- Inheritance
       - objects get their functions from classes
       - class: template, blueprint for creating objects
@@ -153,8 +152,8 @@ print("col1\tcol2\tcol3\ncol1\tcol2\tcol3\ncol1\tcol2\tcol3")
   	- Polymorphism
   		- change the way something works by overriding and overloading
       - change type, have multiple types work together
-  		- overriding: walk to moon walk
-  		- overloading: walk to
+  		- overriding: walking to walking backwards
+  		- overloading: walking to running
 
 ## [Processing](https://processing.org/download) (install & setup for Python)
 
