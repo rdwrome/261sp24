@@ -1,6 +1,6 @@
 # Assignment - Mice
 
-1. Write a Python program (named `{yourfamilyname}mice.py`) that prints out the following lines using **only one** `print` function and where the number 3 is a value (the result of a calculation):
+1. Write a Python program (named `{yourfamilyname}mice.py`) that prints out the following lines using **only one** `print` function, `\n`, `\t`, and where the number 3 is a value (the result of a calculation):
 
 		3
 			Blind
