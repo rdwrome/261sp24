@@ -71,10 +71,10 @@ else:
 </pre>
 
 ### Loops
-- Sends control flow back to some point in the program where it was before to repeat process with same environment.
-- We're often going to use them with accumulators.
-  - count (like we saw in scratch and previously in python)
-  - range (a built-in function)
+- Sends control flow back to some point in the program where it was before to repeat process with same environment
+- We're often going to use them with accumulators
+  - counters
+  - (index) range (a built-in function)
 
 ### While
   - You don't know how many times you need to loop when you start
@@ -86,6 +86,13 @@ else:
 count = 0
 while (count < 3): 	
   count = count + 1
+  print("Happy Thursday")
+```
+or
+```python
+count = 0
+while (count < 3): 	
+  count += 1
   print("Happy Thursday")
 ```
 **While/Else loop**
