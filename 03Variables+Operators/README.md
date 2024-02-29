@@ -12,7 +12,7 @@
 - *Do we have it???*
 
 **Objects**
-- Made up up values (result of calculation) and variables
+- Made up of values (result of calculation) and variables
 - What Python manipulates
 - Almost everything in Python is an object
 - Every object has a **type** that defines the kinds of things that programs can do with that object
