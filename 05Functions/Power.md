@@ -36,8 +36,6 @@ for i in range(-8, 9):
 - The `get_power` function must take in the base `x` and exponent `n` and return the result of power.
 - Make sure to generate the graph in the range of -8 ~ 8.
 
-3. SUBMIT (as a link in the OL to an assignment folder in *your* GitHub repository:
+SUBMIT (as a link in canvas to an assignment folder in *your* GitHub repository:
 		- Your .py file
-		- A documentation file (in Markdown as an .md file!) that includes:
-		a) one thing you knew and one thing you did not know for the reading and
-		b) documentation of the .py file as outlined in the syllabus.
+		- A documentation file (in Markdown as an .md file!) as outlined in the syllabus.

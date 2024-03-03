@@ -1,4 +1,4 @@
-## Scratch
+## Homework - Scratch
 
 1. Implement a Scratch project with the following requirements:
 	- Use at least two sprites (please, for my sake, no cats).

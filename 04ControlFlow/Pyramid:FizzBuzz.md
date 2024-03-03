@@ -1,6 +1,6 @@
-# Homework - Pyramid
+# Homework - Pyramid/FizzBuzz
 
-Pyramid
+1. Pyramid
 - Create a file named `{yourlastname}pyramid.py`.
 - Write a program that prints out a pyramid that looks like this:
 
