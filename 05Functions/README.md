@@ -115,7 +115,7 @@ def func(count):
   for i in range(count + 1):
     print(f"{count - i} Lovely!")
 #call
-print(func(3))
+print(func(5))
 ```
 
 - Function with if/else

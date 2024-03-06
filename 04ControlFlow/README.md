@@ -145,16 +145,6 @@ for i in range(10):
 - This *can sometimes* be the most efficient way to ask a computer to solve a problem
 - Can also be a tricky way to get a computer to solve a problem
 ```python
-# good recursion
-def factorial(n):
-  if n <= 1:
-    return 1
-  else:
-    result = factorial(n-1)
-    return n*result
-factorial(5)
-```
-```python
 # can't stop won't stop - infinite recursion! stack overflow!
 def func():
   print("Lovely!")
