@@ -16,16 +16,7 @@ print(circle_area(3.0))
 
 - See LoopvsFunction.pdf in this folder
 
-- More fun functions
-```python
-#function
-def minimum(x,y):
-  if x < y:
-    return x
-  return y
-#call
-print(minimum (3, 4))
-```
+- Function with one argument/parameter
 ```python
 #function
 def cube(n):
@@ -33,22 +24,17 @@ def cube(n):
 #call
 print(cube(2))
 ```
+
+- Function with Multiple Inputs
 ```python
 #function
 def sqr(x, n):
-  return x ** n
+  return x ** n # remember what this means?
 #call
 print(sqr(2, 3))
 ```
 
 - Passing parameters into function argument calls
-```python
-def sqr(x, n):
-  return x ** n
-base = 2
-exponent = 3
-print(f"{base} to the power of {exponent} is:", sqr(base, exponent))
-```
 ```python
 def get_radius(circumference):
   return circumference / 3.14 / 2
@@ -56,19 +42,15 @@ number = 15
 print(f"The radius of circle with circumference of {number} is {get_radius(number)}")
 ```
 ```python
-#function
-def sumup(n):
-  sum = 0
-  for i in range(n + 1):
-    sum += i
-  return sum
-#call
-print(sumup(5))
+def sqr(x, n):
+  return x ** n
+base = 2
+exponent = 3
+print(f"{base} to the power of {exponent} is:", sqr(base, exponent))
 ```
 
 - Nesting Function Calls
 ```python
-#function
 def print_lyrics():
   print("I'm gonna take my horse to the old town road.")
   print("I'm gonna ride 'til I can't no more.")
@@ -76,26 +58,18 @@ def print_lyrics():
 def repeat_lyrics():
   print_lyrics()
   print_lyrics()
-#call
+
 print(repeat_lyrics())
 ```
 ```python
-#function
+
 def sqr(n):
   return n * n
 
 def pow4(n):
   return sqr(n) * sqr(n)
-#call
+
 print(pow4(2))
-```
-
-- Multiple Inputs
-```python
-def add(a, b):
-	return a + b
-
-print("The result of addition is: ", add(2,3))
 ```
 
 - Multiple Outputs
@@ -108,16 +82,14 @@ primary, secondary, tertiary = getInstruments()
 print("My Instruments are: ", primary, secondary, tertiary)
 ```
 
-- Function Definition with accumulator
+- Function with if
 ```python
-#function
-def func(count):
-  for i in range(count + 1):
-    print(f"{count - i} Lovely!")
-#call
-print(func(5))
+def minimum(x,y):
+  if x < y:
+    return x
+  return y
+print(minimum (3, 4))
 ```
-
 - Function with if/else
 ```python
 def factorial(n):
@@ -130,10 +102,25 @@ n = 3
 
 print(f"Factorial of {n} is {factorial(n)}")
 ```
+- Functions with for loops
+```python
+def func(count):
+  for i in range(count + 1):
+    print(f"{count - i} Lovely!")
+print(func(5))
+```
+```python
+def sumup(n):
+  sum = 0
+  for i in range(n + 1):
+    sum += i
+  return sum
+print(sumup(5))
+```
 
 ## Variables
 - Where they hold meaning is called their **scope**
-- Local Variables
+### Local Variables
  - Only hold meaning with single function calls
  - "the accidental of variables"
  -
@@ -149,7 +136,7 @@ print(f"Factorial of {n} is {factorial(n)}")
  print_favorite_instrument()
  print_least_favorite_instrument()
 ```
-- Global Variables
+### Global Variables
   - persist between function calls
   - can be called from within a function with the keyword `global`
   - mostly used for boolean statements
