@@ -44,7 +44,7 @@ mixed = ['violin', 200, True, 7.5]
 # Print out a list
 print(mixed)
 ```
-### Accessing List Elements
+### Accessing & Amending List Elements
 - Reference an element by its index number
 
 ```Python
@@ -53,6 +53,62 @@ instruments = ['Drum', 'Guitar', 'Bass']
 print(instruments[0]) # Drum
 print(instruments[1]) # Guitar
 print(instruments[2]) # Bass
+```
+- List Repetition
+```python
+# Repeat 0 five times. The result is a single list
+numbers = [0] * 5
+print(numbers) # [0, 0, 0, 0, 0]
+
+# Repeat 1, 2, 3 three times.
+numbers = [0, 1, 2] * 3
+print(numbers) # [0, 1, 2, 0, 1, 2, 0, 1, 2]
+```
+- List mechanics with an update
+```python
+old_instruments = ['Drum', 'Guitar', 'Bass']
+new_instruments = old_instruments
+
+# Both prints out ['Drum', 'Guitar', 'Bass']
+print(old_instruments)
+print(new_instruments)
+
+new_instruments[0] = 'Percussion'
+
+# Both prints out ['Percussion', 'Guitar', 'Bass']
+print(old_instruments)
+print(new_instruments)
+```
+- List slicing
+```python
+menu = ['Drum', 'Guitar', 'Bass']
+# Slice indices 1 and 2
+print(menu[1:3]) # ['Guitar', 'Bass']
+# Slice from index 1 to the end
+print(menu[1:]) # ['Guitar', 'Bass']
+# Slice index 1
+print(menu[1:2]) # ['Guitar']
+# Slice nothing
+print(menu[1:1]) # []
+# Slice indices 0 and 2
+print(menu[0:3:2]) # ['Drum', 'Bass']
+```
+- List manipulation
+```python
+menu = ['Drum', 'Guitar', 'Bass']
+print(menu)
+# Append new element to the list
+menu.append('Piccolo')
+print(menu)
+# Insert a new element into the list
+# 2 is an index where we insert the new element
+menu.insert(2, 'pie')
+print(menu)
+# Remove an element from the list
+menu.remove('Bass')
+print(menu)
+# Get the length of list
+print('The length of list is:', len(menu))
 ```
 ### Lists & Loops
 - You can use a for loop to iterate through a list
@@ -74,6 +130,7 @@ for instrument in instruments:
 
 print(instruments)
 ```
+
 ### Lists in Processing
 - For loops are usually used to iterate through lists in Processing
 - You can also a for loop to put data *inside* a list, as is the case in the sinewave.pyde example
