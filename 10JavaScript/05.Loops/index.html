@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Hello, title
+    </title>
+    <script>
+      let midiNote = 64;
+      
+      while(midiNote <= 76) {
+        console.log("MIDI note is %i", midiNote);
+        midiNote += 1;
+      }
+      
+      // Increment
+      for(let i = 0; i < 128; i++){
+        console.log("The next MIDI note value is %i", i);
+      }
+      
+      // Decrement Instead
+      for(let i = 127; i >= 0; i--){
+        console.log("The next MIDI note value is %i", i);
+      }
+
+      // Increment by 2
+      for(let i = 0; i < 128; i += 2){
+        console.log("The next MIDI note value is %i", i);
+      }
+
+    </script>
+  </head>
+  <body>
+    Hello, body
+  </body>
+</html>

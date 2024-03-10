@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Hello, title
+    </title>
+    <script>
+      let midiNote = 64;
+      
+      if (midiNote < 0 || midiNote > 127) {
+        console.log("\nThe note value entered is an invalid MIDI note.\n");
+      }
+
+      if (midiNote >= 0 && midiNote <= 127) {
+        console.log("The note value entered is a valid MIDI note.");
+        console.log("MIDI note value is", midiNote);
+      }
+
+      if (midiNote <= 0 || midiNote >= 127) {
+        console.log("The note value entered is Invalid.");
+      } else {
+        console.log("The note value entered is valid.");
+      }
+
+    </script>
+  </head>
+  <body>
+    Hello, body
+  </body>
+</html>
