@@ -16,7 +16,7 @@ Marijn Haverbeke, 2018
 
 ### Everyday Tools
 
-* [Pulsar](https://pulsar-edit.dev/)
+* [Visual Studio Code](https://code.visualstudio.com/Download)
 
 * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
@@ -32,9 +32,9 @@ Final Project | 30%
 **Total**|**100%**
 
 ### Steps to submit via GitHub+Canvas
-  1. Make a folder in your GitHub private repository named after the assignment (i.e. {yourusername}/itp/scratch, etc.)
-  2. Commit all parts of your assignment (code+documentation) into the assignment repository folder
-  3. Submit the link for the assignment repository folder in Canvas
+  1. Make a subfolder in *your* GitHub repository named after the assignment (i.e. {yourusername}/itp/scratch, etc.)
+  2. Commit all parts of your assignment (i.e. code+documentation) into that folder
+  3. Submit the link for that folder in Canvas
 
 ### Documentation outline
   - The documentation (again, always in Markdown as a .md file) must have the following:

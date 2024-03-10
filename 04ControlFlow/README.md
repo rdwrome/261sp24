@@ -35,6 +35,7 @@ else:
 ```
 **If/Elif/Else Conditions**
 - Daisy-chained If Else statements
+- Boat name? (portmanteau)
 ```python
 midiNote = 64
 if midiNote < 64:
@@ -74,7 +75,7 @@ else:
 - Sends control flow back to some point in the program where it was before to repeat process with same environment
 - We're often going to use them with accumulators
   - counters
-  - (index) range (a built-in function)
+  - range (a built-in function)
 
 ### While
   - You don't know how many times you need to loop when you start
@@ -92,7 +93,7 @@ or
 ```python
 count = 0
 while (count < 3): 	
-  count += 1
+  count += 1 # just shorthand
   print("Happy Thursday")
 ```
 **While/Else loop**
@@ -108,11 +109,11 @@ else:
 ```
 #### For
   - You do know how many times you need to loop when you start
-  - Iterates over a sequenced object like a list, once per object
+  - Iterates over a sequenced object like a list, once per element
 ![](img/for.png)
 
 **For with range**
-- Range is built-in function that generates a index list of numbers
+- Range is built-in function that generates a list of integers
 ```python
 # Starts at 0 and goes up by one by default
 for i in range(128):
@@ -124,16 +125,16 @@ for i in range(0, 128, 2):
 
 **For with range and nesting**
 ```python
-for index in range(1500, 2701, 1):
-  if index % 7 == 0 and index % 5 == 0:
-    print(index)
+for i in range(1500, 2701, 1):
+  if i % 7 == 0 and i % 5 == 0:
+    print(i)
 ```
 ```python
 for i in range(10):
   for j in range(10):
     if j >= i:
-      print(j, end='')
-  print()
+      print(j, end='') # side to side
+  print() # up down
 ```
 
 ## Recursive Control Flow
@@ -144,6 +145,7 @@ for i in range(10):
   - Expresses a problem in terms of a smaller version of the same problem
 - This *can sometimes* be the most efficient way to ask a computer to solve a problem
 - Can also be a tricky way to get a computer to solve a problem
+- DON'T CODE ALONG :) we haven't learned functions yet!
 ```python
 # can't stop won't stop - infinite recursion! stack overflow!
 def func():
@@ -164,4 +166,4 @@ func(5)
 ## [Processing](https://processing.org/download)
 - See subfolder!
 
-## For Next Week: Pyramid.md
+## For Next Week: FizzBuzz/Pyramid.md

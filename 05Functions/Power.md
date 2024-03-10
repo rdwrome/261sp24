@@ -1,6 +1,7 @@
-# Homework - Functions
+# Power
 
-Write a program that prints out a graph of `y = x^2` (^2 means power of 2) horizontally. The print out of the graph should look like the following:
+1. Create a file called 'Power.py'
+- Write a program that prints out a graph of `y = x^2` (^2 means power of 2) horizontally. The print out of the graph should look like the following:
 
 ```
 ****************************************************************
@@ -36,6 +37,6 @@ for i in range(-8, 9):
 - The `get_power` function must take in the base `x` and exponent `n` and return the result of power.
 - Make sure to generate the graph in the range of -8 ~ 8.
 
-SUBMIT (as a link in canvas to an assignment folder in *your* GitHub repository:
+2. SUBMIT (as a link in Canvas to an assignment subfolder in *your* GitHub repository:
 		- Your .py file
-		- A documentation file (in Markdown as an .md file!) as outlined in the syllabus.
+		- A documentation file (in Markdown as an .md file!) as outlined in the syllabus!

@@ -57,10 +57,14 @@ print(type(True)) #boolean
 - Variables are really easy to bind and rebind
 - CODE ALONG
 ```Python
-one = 1
-two = 2
-cat = one + two
-print(cat)
+pi = 3.14
+radius = 11
+area = pi * (radius ** 2)
+print(area)
+```
+```python
+x, y, z = 1, 2, 3
+print(x, y, z)
 ```
 **Naming Variables and Keywords**
 - You also can't use special characters other than _
@@ -98,7 +102,7 @@ print('yum' * 3)
 str = input("Name: ")
 print("Hello,", str)
 ```
-- Printing paramenters and f-String
+- Printing parameters and f-String
 ```Python
 print("Hello,", str, sep='')
 print(f"Hello, {str}")
@@ -106,8 +110,25 @@ print(f"Hello, {str}")
 
 - Type Casting
 ```Python
-i = int(input("What's your favorite number? "))
-print(f"Your favorite number is {i}")
+# Integer to String
+num = 100
+result = str(num)
+print(result, type(result))
+
+# Float to String
+num = 10.45
+result = str(num)
+print(result, type(result))
+
+# String to Integer
+string = "45"
+result = int(string)
+print(result, type(result))
+
+# String to Integer
+string = "56.83"
+result = float(string)
+print(result, type(result))
 ```
 
 - Printing floating points

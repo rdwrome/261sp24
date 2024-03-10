@@ -18,10 +18,10 @@
 - When that has gone through go to Repository > Open in Pulsar
 - The README.md file of the repository you created for this class will open in Pulsar
 
-- Read the PDF in this folder
+1. Read the PDF in this folder
 
-- In the text entry box for the "Ford Response" on CANVAS:
+2. In the text entry box for the "Ford Response" on CANVAS:
     - Tell me two (2) things in the reading that were new information to you
     - Tell me two (2) things in the reading that you already knew 
     - Be prepared to discuss the entire reading with your class 
-    - do NOT use chat-GPT
+    - do NOT use chat-GPT!
