@@ -89,38 +89,12 @@
 - Environment
 - let (can be rebound anytime) vs const (can't be rebound within a block) vs var (works, is just old-school)
 - Naming Bindings and Keywords
-- scopes (use scope example)
+- scopes
 	- local: created and can only be referenced within a function (accidental)
 	- global: defined outside of block and can be referenced anywhere (key signature)
 	- scoping scope: can look out into environment
-- nested scopes (use nested example)
 
-**Control Flow**
-
-- Conditional Execution
-	- if/else (chain of fools)
-	- switch (switch example)
-
-- Loops
-	- while (while example)
-	- do (do example) [don't enter anything!]
-	- for (for example)
-	- break (breaking out example)
-
-**Functions**
-- a function is a whole program wrapped up into a Value (quack example)
-- Arguments come in
-- Return Values come out
-- don't confuse functions with side effects!
-- examples:
-
-```javascript
-	Math.min(10,3)
-	Math.max(10,3)
-```
-
-**Recursion**
-- (use recursive chicken example)
+## Subfolder examples
 
 **Debugging in JS**
 
