@@ -1,14 +1,14 @@
-## M1/M2?
+## M1/M2? (6/11)
 
 ## Appointments
 
 ## Band
 - [Sample Website](https://kariestes.github.io/)
 - GROUPS:
-  - Harry, John, Jackson
-  - Sam, Teya, Miles
+  - John, Jackson
+  - Sam, Timmy, Miles
   - Ryan, Tim, Maya
-  - Borys, Joe, Reuben, Timmy
+  - Borys, Joe, Reuben
   - Yorgos, Angel, Ethan
   - Ellen, Mathis, Bri
   - Neil, Yuseok, Xinran
