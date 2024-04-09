@@ -1,9 +1,19 @@
+## M1/M2?
+
+## Appointments
+
 ## Band
 - [Sample Website](https://kariestes.github.io/)
 - GROUPS:
-  - Barbara, Yinou, Ryan A, Jaden
-  - Jose, Ada, Fumiya, Cooper
-  - Ryan W, Esther, Max, Sunshiyu
+  - Harry, John, Jackson
+  - Sam, Teya, Miles
+  - Ryan, Tim, Maya
+  - Borys, Joe, Reuben, Timmy
+  - Yorgos, Angel, Ethan
+  - Ellen, Mathis, Bri
+  - Neil, Yuseok, Xinran
+  - Misha, Raymond, Adler
+  - Ghibbi, Elliot, Noel
 <pre>
 You + your group mates are a new band.
 Build a simple band website together using pages.github.com where your index.html file has
@@ -13,11 +23,11 @@ at least:
 - 3 other assets: could be a hyperlink, a Gif/image, a css file, etc.
 
 You will PRESENT at 4pm.
-Documentation is due at Midnight tonight.
+Documentation is due at 4:45pm.
 
 Every group member submits an individual markdown file to Canvas. The markdown file
 must include:
-- A hyperlink to the site you all made
+- A hyperlink to the site you all made ON THE INTERNET
 - Problems faced, decisions made (as in other weeks)
 - A self-assessment of how you contributed to the group
 - Short assessments of your group members and the contributions they made
