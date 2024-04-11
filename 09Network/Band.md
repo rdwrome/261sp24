@@ -5,15 +5,10 @@
 ## Band
 - [Sample Website](https://kariestes.github.io/)
 - GROUPS:
-  - John, Jackson
-  - Sam, Timmy, Miles
-  - Ryan, Tim, Maya
-  - Borys, Joe, Reuben
-  - Yorgos, Angel, Ethan
   - Ellen, Mathis, Bri
-  - Neil, Yuseok, Xinran
+  - Neil, Yuseok, Angel,
   - Misha, Raymond, Adler
-  - Ghibbi, Elliot, Noel
+  - Ghibbi, Elliot, Ethan
 <pre>
 You + your group mates are a new band.
 Build a simple band website together using pages.github.com where your index.html file has
