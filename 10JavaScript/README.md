@@ -1,7 +1,5 @@
 # JavaScript
 
-## Final Project Proposals?
-
 ## Creative Coding Minor Refresher
 
 ## JavaScript
