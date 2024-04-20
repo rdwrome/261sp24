@@ -95,6 +95,12 @@
 
 ## Subfolder examples
 
+## [Propriety JS vs JS](https://www.gnu.org/philosophy/javascript-trap.en.html)
+- [Human Rights Watch](https://www.hrw.org/report/2022/05/25/how-dare-they-peep-my-private-life/childrens-rights-violations-governments)
+- [UN](https://www.ohchr.org/)
+
+## Processing with JavaScript
+
 **Debugging in JS**
 
 - "use strict" (use strict example)
@@ -103,12 +109,6 @@
 - no undeclared bindings
 - no escape characters
 - [unit testing: a program that verifies part of your code](https://www.smashingmagazine.com/2012/06/introduction-to-javascript-unit-testing/)
-
-## [Propriety JS vs JS](https://www.gnu.org/philosophy/javascript-trap.en.html)
-- [Human Rights Watch](https://www.hrw.org/report/2022/05/25/how-dare-they-peep-my-private-life/childrens-rights-violations-governments)
-- [UN](https://www.ohchr.org/)
-
-## Processing with JavaScript
 
 ## GitHub Branches
 
