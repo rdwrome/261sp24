@@ -37,11 +37,11 @@
 
 **Statements CODE ALONG**
 
-          - sqlite3 nyctofatwentythree.db //creates database
+          - sqlite3 nycto261.db //creates database
           - CREATE TABLE 'nycto' ('id' integer, 'name' text, 'dark' text);
           - .tables //names table
           - .schema // shows structure of table named
-          - INSERT INTO nycto (id, name, dark) VALUES(6, 'ryan', 'yes');
+          - INSERT INTO nycto (id, name, dark) VALUES(6, 'raymond', 'no');
           - SELECT name FROM nycto;
           - SELECT name, dark FROM nycto;
           - SELECT * FROM nycto;
